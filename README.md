@@ -1,14 +1,13 @@
-# flaskboke
-flask
+Flaskboke
+====
 该项目是按照Flask Web开发一书来完成的，也是个人的第一个flask项目。
-利用Flask 搭建个人博客系统
-所用工具：Windows10、Pycharm
-Python版本为3.6.4
-1.利用python的venv在D:\flaskboke目录下创建虚拟环境
-2.使用pip安装应用程序中需要用到的包
-3.  应用程序整体目录结构
-|-----flaskboke 总目录
-  	      |------app/		存放flask程序
+----
+###利用Flask 搭建个人博客系统
+####所用工具：Windows10、Pycharm
+####Python版本为`3.6.4`
+#####应用程序整体目录结构
+|-----flaskboke 总目录<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    |------app/		存放flask程序<br>
                   |------templates/		模板文件 .html
                   |------static/			存放静态文件，如图片、JS源码文件和CSS
                   |------main/			main蓝本（在蓝本中定义的路由处于休眠状态直		  |   			到蓝本注册到程序上后。）
