@@ -1,0 +1,14 @@
+# venv
+.idea
+__pycache__
+Include
+Lib
+Scripts
+
+# other
+selenium
+tmp
+gexkodriver
+
+# SQLite databases
+.sqlite
