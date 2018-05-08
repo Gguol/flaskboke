@@ -1,4 +1,4 @@
-Flaskboke
+Flaskblog
 ====
 该项目是按照Flask Web开发一书来完成的，也是个人的第一个flask项目。
 ----
